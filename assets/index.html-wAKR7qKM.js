@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-147825fb","path":"/docs/","title":"","lang":"zh-CN","frontmatter":{"shortTitle":"文档笔记","article":false},"headers":[],"git":{},"readingTime":{"minutes":0.02,"words":7},"filePathRelative":"docs/readme.md","excerpt":"","copyright":{"author":"red-velet"}}');export{e as data};

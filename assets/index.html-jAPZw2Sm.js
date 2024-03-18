@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-169b367c","path":"/docs/treasure-resources/interview/middleware/","title":"Middleware","lang":"zh-CN","frontmatter":{"title":"Middleware","article":false,"feed":false,"sitemap":false,"seo":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"copyright":{"author":"red-velet"}}');export{e as data};
