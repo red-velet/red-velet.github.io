@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-210106ad","path":"/docs/treasure-resources/","title":"珍藏资源","lang":"zh-CN","frontmatter":{"title":"珍藏资源","description":"珍藏资源","shortTitle":"珍藏资源","article":false},"headers":[],"git":{},"readingTime":{"minutes":0.06,"words":17},"filePathRelative":"docs/treasure-resources/readme.md","excerpt":"","copyright":{"author":"red-velet"}}');export{e as data};

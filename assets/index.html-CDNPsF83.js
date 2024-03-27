@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c7c24ab6","path":"/docs/learning-road/408/computer-network/","title":"","lang":"zh-CN","frontmatter":{"shortTitle":"计算机网络","article":false},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":8},"filePathRelative":"docs/learning-road/408/computer-network/readme.md","excerpt":"","copyright":{"author":"red-velet"}}');export{e as data};

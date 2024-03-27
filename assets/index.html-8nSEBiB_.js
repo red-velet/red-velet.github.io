@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2d046ad2","path":"/docs/learning-road/java/","title":"首页","lang":"zh-CN","frontmatter":{"title":"首页","isOriginal":true,"shortTitle":"Java学习路线","article":false},"headers":[],"git":{},"readingTime":{"minutes":0.04,"words":13},"filePathRelative":"docs/learning-road/java/readme.md","excerpt":"","copyright":{"author":"red-velet"}}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3b28e94e","path":"/docs/learning-road/408/","title":"","lang":"zh-CN","frontmatter":{"shortTitle":"计算机基础学习路线","article":false},"headers":[],"git":{},"readingTime":{"minutes":0.04,"words":12},"filePathRelative":"docs/learning-road/408/readme.md","excerpt":"","copyright":{"author":"red-velet"}}');export{e as data};

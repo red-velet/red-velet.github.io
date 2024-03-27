@@ -1,1 +1,0 @@
-import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as e,c as o}from"./app-yOESM-4p.js";const c={};function r(n,_){return e(),o("div")}const s=t(c,[["render",r],["__file","up-situation.html.vue"]]);export{s as default};

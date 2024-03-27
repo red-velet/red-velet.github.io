@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-391e3648","path":"/docs/fun-sharing/","title":"","lang":"zh-CN","frontmatter":{"shortTitle":"好玩分享","article":false},"headers":[],"git":{},"readingTime":{"minutes":0.02,"words":7},"filePathRelative":"docs/fun-sharing/readme.md","excerpt":"","copyright":{"author":"red-velet"}}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6f982c58","path":"/docs/treasure-resources/resource/","title":"好玩分享","lang":"zh-CN","frontmatter":{"title":"好玩分享","description":"好玩分享"},"headers":[],"git":{},"readingTime":{"minutes":0.03,"words":10},"filePathRelative":"docs/treasure-resources/resource/readme.md","excerpt":"","copyright":{"author":"red-velet"}}');export{e as data};

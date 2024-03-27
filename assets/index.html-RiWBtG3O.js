@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-628f067c","path":"/docs/learning-road/android/basic/","title":"","lang":"zh-CN","frontmatter":{"shortTitle":"Android基础","article":false},"headers":[],"git":{},"readingTime":{"minutes":0.02,"words":6},"filePathRelative":"docs/learning-road/android/basic/readme.md","excerpt":"","copyright":{"author":"red-velet"}}');export{e as data};

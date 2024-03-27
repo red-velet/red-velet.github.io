@@ -1,0 +1,1 @@
+import{_ as c}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as e,c as t}from"./app-lW-6uHYn.js";const o={};function r(_,m){return e(),t("div")}const a=c(o,[["render",r],["__file","mvcc.html.vue"]]);export{a as default};

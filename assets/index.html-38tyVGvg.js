@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-51278d89","path":"/docs/learning-road/408/operate-system/","title":"","lang":"zh-CN","frontmatter":{"shortTitle":"操作系统","article":false},"headers":[],"git":{},"readingTime":{"minutes":0.02,"words":7},"filePathRelative":"docs/learning-road/408/operate-system/readme.md","excerpt":"","copyright":{"author":"red-velet"}}');export{e as data};
